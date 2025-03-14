@@ -1,6 +1,6 @@
 # tribunkalbar.github.io
 Berikan informasi tentang kejadian yang ada di indonesia di berbagai kota-kota Indonesia
-Sponsored By:
+<center>Sponsored By:</center><br/>
 <a href="https://www.almostreal.org/">almostreal</a><br/>
 <a href="https://gege88.it.com">GEGE88</a><br/>
 <a href="https://kotakslotajaib.net">KOTAK SLOT AJAIB</a><br/>
